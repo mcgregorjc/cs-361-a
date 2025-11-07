@@ -1,0 +1,48 @@
+
+[
+  {
+    "id": 1,
+    "title": "Spider-Man: No Way Home",
+    "year": 2021,
+    "director": "jon Watts",
+    "genre": "thriler",
+    "rating": 8.2,
+    "description": "With Spider-Man's identity now revealed, our friendly neighborhood web-slinger is unmasked and no longer able to separate his normal life as Peter Parker from the high stakes of being a superhero. When Peter asks for help from Doctor Strange, the stakes become even more dangerous, forcing him to discover what it truly means to be Spider-Man."
+  },
+  {
+    "id": 2,
+    "title": "Deadpool",
+    "year": 2016,
+    "director": "Tim Miller",
+    "genre": "Action, Comedy",
+    "rating": 8,
+    "description": "Wade Wilson (Ryan Reynolds) is a former Special Forces operative who now works as a mercenary. His world comes crashing down when evil scientist Ajax (Ed Skrein) tortures, disfigures and transforms him into Deadpool. The rogue experiment leaves Deadpool with accelerated healing powers and a twisted sense of humor. With help from mutant allies Colossus and Negasonic Teenage Warhead (Brianna Hildebrand), Deadpool uses his new skills to hunt down the man who nearly destroyed his life."
+  },
+  {
+    "id": 3,
+    "title": "The Dark Knight",
+    "year": 2008,
+    "director": "Christopher Nolan",
+    "genre": "Action, Crime, Drama",
+    "rating": 9.1,
+    "description": "With the help of allies, Lt. Jim Gordon and DA Harvey Dent, Batman is able to keep a tight lid on crime in Gotham City. But when a young criminal calling himself the Joker suddenly throws the town into chaos, the caped crusader begins to tread a fine line between heroism and vigilantism."
+  },
+  {
+    "id": 4,
+    "title": "Batman Beyond: Return of the Joker",
+    "year": 2000,
+    "director": "Curt geda",
+    "genre": "Action, sci-fi",
+    "rating": 7.7,
+    "description": "In the Gotham City of the future, an older Bruce Wayne (Kevin Conroy) trains a college student, Terry McGinnis (Will Friedle), to replace him as Batman. Meanwhile, the Joker (Mark Hamill) has re-emerged as the leader of the Jokerz, a gang inspired by their evil hero, who was previously thought to be dead. Terry tries to stop the theft of communications gear by the Jokerz, but the Joker narrowly escapes. The truth about the Joker's life and death slowly emerges through violent confrontations."
+  },
+  {
+    "id": 5,
+    "title": "Superman",
+    "year": 2025,
+    "director": "James Gunn",
+    "genre": "Action, Adventure",
+    "rating": 7.1,
+    "description": "The lives of two mob hitmen, a boxer, a gangster and his wife intertwine in four tales of violence and redemption."
+  }
+]
